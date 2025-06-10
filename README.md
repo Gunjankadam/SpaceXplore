@@ -11,29 +11,37 @@ To get the project running locally, follow the steps below:
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/Gunjankadam/Space-Xplore.git
 ```
 
 ### Step 2: Install Dependencies
 
 Navigate to the three-bundle directory (which contains essential files for the 3D elements):
 
-Since three-bundle contains sensitive or large files, I haven't uploaded it to this repository for now. If you need access to it, please contact me via email at kadamgunjan27@gmail.com.
+Since three-bundle contains sensitive or large files, I haven't uploaded it to this repository for now. 
 
 Install dependencies for the project:
 
 Navigate to the project folder and run:
+```bash
 npm install
-
+```
 ### Step 3: Build the Project
-Now, let’s build the project using Vite:
+Let’s first build the project using Vite by navigating in three-bundle directory:
+```bash
+npx vite build
+```
+Now, let’s build the project using Next:
+```bash
 npm run build
+```
 This will bundle the project and prepare it for deployment.
 
 ### Step 4: Start the Development Server
 Once the build is ready, start the server to see your project in action:
+```bash
 npm run start
-
+```
 ### Step 5: Open in Browser
 After starting the server, open your browser and navigate to the provided localhost URL (typically http://localhost:3000) to see your project in action.
 
