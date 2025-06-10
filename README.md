@@ -37,16 +37,16 @@ npm run start
 ### Step 5: Open in Browser
 After starting the server, open your browser and navigate to the provided localhost URL (typically http://localhost:3000) to see your project in action.
 
-/.next           - Next.js build output
-/node_modules    - Node.js packages
-/open-in-v0      - Open-in version 0 files
-/public          - Public static files like images and SVGs
-/src             - Source code for the project
-  /components    - Components like magic UI, buttons, animations
-  /lib           - Library files
-  /styles        - CSS for styling
-  /utils         - Utility functions
-/three-bundle    - Three.js files (not uploaded, contact for access)
+- /.next           - Next.js build output
+- /node_modules    - Node.js packages
+- /open-in-v0      - Open-in version 0 files
+- /public          - Public static files like images and SVGs
+- /src             - Source code for the project
+- /components    - Components like magic UI, buttons, animations
+- /lib           - Library files
+- /styles        - CSS for styling
+- /utils         - Utility functions
+- /three-bundle    - Three.js files (not uploaded, contact for access)
 
 
 ## Additional Information
@@ -66,6 +66,6 @@ https://spacee.onrender.com
 
 Here are some images to showcase the project:
 
-![Image 1](images/image1.png)
-![Image 2](images/image2.png)
-![Image 3](images/image3.png)
+![Image 1](https://github.com/Gunjankadam/Space-Xplore/blob/main/image1.png)
+![Image 2](https://github.com/Gunjankadam/Space-Xplore/blob/main/image2.png)
+![Image 3](https://github.com/Gunjankadam/Space-Xplore/blob/main/image3.png)
