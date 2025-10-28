@@ -68,7 +68,7 @@ The magic UI components, such as aurora-text and typing-animation, create an eng
 Important: I am not uploading the three-bundle directory for now. If you need it, please feel free to contact me at kadamgunjan27@gmail.com.
 
 ## Check out deployed project
-https://spacee.onrender.com
+https://space-xplore-pied.vercel.app/
 
 ## Screenshots
 
